@@ -9,12 +9,15 @@
 
   <%= f.label :title %>
   <%= f.text_field :title %>
+
   <%= f.label :description %>
   <%= f.text_area :description %>
+
   <%= f.label :completed %>
   <%= f.check_box :completed %>
+
   <%= f.label "Attachment" %>
-  <%= f.text_field :task_file %>
+  <%= f.file_field :task_file %>
 
   <%= f.submit %>
 

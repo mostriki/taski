@@ -14,7 +14,7 @@ class Projects::TasksController < ApplicationController
 
   def create
     @task = Task.new(task_params)
-    @task.project_id = @project_id
+    @task.project_id = @project.id
 
     respond_to do |format|
       if @task.save

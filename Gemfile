@@ -36,6 +36,7 @@ gem 'carrierwave'
 gem 'mini_magick', '~> 4.5', '>= 4.5.1'
 gem 'fog'
 gem 'figaro'
+gem 'pry'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
