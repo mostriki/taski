@@ -39,4 +39,6 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* Bugs
+
+- [ ] Getting `Excon::Error::Forbidden in Projects::TasksController#create` error whenever I try to upload an attachment to a task. Issue seems to be with Amazon S3 permissions. Worth looking into. 
