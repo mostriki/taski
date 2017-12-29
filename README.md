@@ -5,6 +5,8 @@ application up and running.
 
 Things you may want to cover:
 
+Visit my site [HERE](https://udemy-taski.herokuapp.com/)
+
 * Ruby version
 
 * System dependencies
