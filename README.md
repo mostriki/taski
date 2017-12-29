@@ -41,4 +41,9 @@ Things you may want to cover:
 
 * Bugs
 
-- [ ] Getting `Excon::Error::Forbidden in Projects::TasksController#create` error whenever I try to upload an attachment to a task. Issue seems to be with Amazon S3 permissions. Worth looking into. 
+- [ ] Getting `Excon::Error::Forbidden in Projects::TasksController#create` error whenever I try to upload an attachment to a task. Issue seems to be with Amazon S3 permissions. Worth looking into.
+
+
+### Source
+
+[Ruby on Rails Foundations](https://www.udemy.com/how-to-learn-ruby-on-rails/learn/v4/overview) by [Jordan Hudgens](https://github.com/jordanhudgens/taski)
